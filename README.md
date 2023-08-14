@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on freelance projects for various clients
-- 🌱 I’m currently learning how to deploy an application 
+- 🌱 I’m currently learning how to deploy an application using Azure and AWS
 - 👯 I’m looking to collaborate, just send a message!
 - 📫 How to reach me: jared.matthews@mail.mcgill.ca
 
