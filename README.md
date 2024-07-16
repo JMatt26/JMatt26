@@ -2,12 +2,7 @@
 
 #### I'm Jared Matthews! A Software Engineering Co-op Student at McGill University!
 
-
-<!--
-**JMatt26/JMatt26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+<img alt="Jared Matthews's GitHub Stats" src="https://github-readme-jaredmatthews-stats.vercel.app/api?username=JMatt26&show_icons=true&hide=stars&theme=github_dark" align="right" width="500"/>
 
 - 🔭 I’m currently working on freelance projects for various clients
 - 🌱 I’m currently learning how to deploy an application using Azure and AWS
