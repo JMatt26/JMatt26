@@ -2,7 +2,7 @@
 
 #### I'm Jared Matthews! A Software Engineering Co-op Student at McGill University!
 
-<img align="right" src="https://github-readme-jaredmatthews-stats.vercel.app/api/top-langs?username=JMatt26&show_icons=true&layout=compact&theme=github_dark" alt="JMatt26" align="right" width="350"/>
+<img align="right" src="https://github-readme-jaredmatthews-stats.vercel.app/api/top-langs?username=JMatt26&show_icons=true&layout=compact&theme=github_dark" alt="JMatt26" align="right" width="300"/>
 
 
 
