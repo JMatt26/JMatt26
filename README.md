@@ -6,8 +6,7 @@
 
 
 
-- 🔭 I’m currently working on freelance projects for various clients
-- 🌱 I’m currently learning how to deploy an application using Azure and AWS
+- 🌱 I’m currently learning how to build a quantitative trading backtesting engine
 - 👯 I’m looking to collaborate, just send a message!
 - 📫 How to reach me: jared.matthews@mail.mcgill.ca
 
