@@ -2,7 +2,7 @@
 
 #### I'm Jared Matthews! A Software Engineering Co-op Student at McGill University!
 
-- I’m currently learning how to build a quantitative trading backtesting engine
+- I’m currently working on finance, economic, and quant related projects
 - I’m looking to collaborate, just send a message!
 - How to reach me: jared.matthews@mail.mcgill.ca
 
