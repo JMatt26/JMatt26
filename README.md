@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Jared Matthews! A Software Engineering Co-op Student at McGill University!
+#### I'm Jared Matthews! A Software Engineering Co-op Graduate from McGill University!
 
 - I’m currently working on finance, economic, and quant related projects
 - I’m looking to collaborate, just send a message!
